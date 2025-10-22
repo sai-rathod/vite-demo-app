@@ -7,7 +7,7 @@ pipeline{
                 git url:"https://github.com/sai-rathod/vite-demo-app.git",branch:"main"
             }
         }
-        stage("install-deps"){
+        stage("install-dependencies"){
             steps{
                 echo "installing the dependencies"
                 sh "npm install"
