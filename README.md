@@ -111,11 +111,8 @@ The Jenkins pipeline includes the following automated stages:
 └── README.md              # Project documentation
 ```
 
-## 📸 Documentation & Proof
-
-All proof of implementation images and documentation are available in the Google Drive folder:
-
-**https://drive.google.com/drive/folders/163WfSB_k15tXuQPfoNNWNRHMcdiFs9Js?usp=sharing** 
+## Project Screenshots:
+*https://drive.google.com/drive/folders/163WfSB_k15tXuQPfoNNWNRHMcdiFs9Js?usp=sharing*
 
 ## 🔧 Available Scripts
 
